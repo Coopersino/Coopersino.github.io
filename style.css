@@ -10,7 +10,7 @@ body {
 
 .container {
   min-height: 100%;
-  width: 1500px;
+  width: 100%;
   margin: 0 auto;
 }
 
@@ -204,7 +204,7 @@ a {
   background-color: #373737;
   color: #dad9d9;
   clear: both;
-  width: 1500px;
+  width: 100%;
   margin-right: auto;
   margin-left: auto;
 }
@@ -277,7 +277,7 @@ a {
 
 .wrapper {
   /* display: flex; */
-  width: 78%;
+  width: 1117px;
   margin: 0 auto;
   /* justify-content: space-around; */
 }
@@ -307,7 +307,7 @@ a {
 }
 
 .page-main {
-  min-width: 786px;
+  width: 860px;
 }
 
 .page-main__social-block {
@@ -539,7 +539,7 @@ a {
 }
 
 .clr {
-  height: 143px;
+  height: 161px;
 }
 
 .instagramm__item:hover {
